@@ -11,11 +11,11 @@ import kotlinx.android.synthetic.main.activity_add__info.*
 class Add_Info : AppCompatActivity() {
 
     companion object {
-        const val EXTRA_ID = "com.mogalabs.tagnotes.EXTRA_ID"
-        const val EXTRA_Name = "com.mogalabs.tagnotes.EXTRA_Name"
-        const val EXTRA_Job = "com.mogalabs.tagnotes.EXTRA_Job"
-        const val EXTRA_Age = "com.mogalabs.tagnotes.EXTRA_Age"
-        const val EXTRA_GG = "com.mogalabs.tagnotes.EXTRA_GG"
+        const val EXTRA_ID = "EXTRA_ID"
+        const val EXTRA_Name = "EXTRA_Name"
+        const val EXTRA_Job = "EXTRA_Job"
+        const val EXTRA_Age = "EXTRA_Age"
+        const val EXTRA_GG = "EXTRA_GG"
 
     }
 

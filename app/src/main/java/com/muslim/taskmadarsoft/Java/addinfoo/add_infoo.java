@@ -13,11 +13,11 @@ import com.muslim.taskmadarsoft.R;
 
 public
 class add_infoo extends AppCompatActivity {
-    public static final String EXTRA_ID = "com.mogalabs.tagnotes.EXTRA_ID";
-    public static final String EXTRA_Name = "com.mogalabs.tagnotes.EXTRA_Name";
-    public static final String EXTRA_Job = "com.mogalabs.tagnotes.EXTRA_Job";
-    public static final String EXTRA_Age = "com.mogalabs.tagnotes.EXTRA_Age";
-    public static final String EXTRA_GG = "com.mogalabs.tagnotes.EXTRA_GG";
+    public static final String EXTRA_ID = "EXTRA_ID";
+    public static final String EXTRA_Name = "EXTRA_Name";
+    public static final String EXTRA_Job = "cEXTRA_Job";
+    public static final String EXTRA_Age = "EXTRA_Age";
+    public static final String EXTRA_GG = "EXTRA_GG";
 
     private EditText name, age, job, gg;
     private
